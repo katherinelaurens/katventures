@@ -18,8 +18,8 @@ email: katherine@laurens.co
 description: > # this means to ignore newlines until "baseurl:"
   This website is about sharing our outdoor adventures in homeschooling. We hope that the places we visit inspire you to visit them too,
   Katherine, Anel and Shaun
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://example.com" # the base hostname & protocol for your site
+baseurl: "/katventures" # the subpath of your site, e.g. /blog
+url: "https://katherinelaurens.github.io/katventures" # the base hostname & protocol for your site
 github_username:  katherinelaurens
 
 # Build settings
