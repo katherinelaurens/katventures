@@ -1,10 +1,11 @@
 ---
+title: My Trip to Mount Etna
+date: '2015-09-20 08:39:01'
 layout: post
-title:  "My Trip to Mount Etna"
-date:   2015-09-20 09:39:01 +0100
-categories: travel
-image: /katventures/images/ETNA-ERUPTION.jpg
-image-sm: /katventures/images/ETNA-ERUPTION.jpg
+categories:
+- travel
+image: "/katventures/images/ETNA-ERUPTION.jpg"
+image-sm: "/katventures/images/ETNA-ERUPTION.jpg"
 ---
 
 We visited Mount Etna on the 14th July on a sunny afternoon. This is me on the way to Mount Etna on the coach.
