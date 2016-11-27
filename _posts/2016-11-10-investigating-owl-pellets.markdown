@@ -11,4 +11,9 @@ Today we went to a Woodstock homeschool meeting. When we were there there was a 
 
 Thoughts: It was quite smelly there and I was pretty freaked out! I could not stand the smell!!!
 
-<img src="/katventures/images/owl-investigate.jpg" alt="Owl Pellet Investigating" style="width: 400px;"/>
+<video width="960" height="540" controls>
+  <source src="owl-investigating.mov" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<img src="/katventures/images/own-investigate2.jpg" alt="Owl Pellet Investigating" style="width: 400px;"/>
