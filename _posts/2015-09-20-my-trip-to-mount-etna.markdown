@@ -14,9 +14,16 @@ We visited Mount Etna on the 14th July on a sunny afternoon. This is me on the w
 
 When we got there we used a cable car to get up. The ride up was scary.
 
-
 <img src="/katventures/images/etna-cable-car.jpg" alt="The view from the cable car" style="width: 400px;"/>
 
-Somehting dsgihsdfkjh
+Mount Etna is a stratovolcano, that first started to erupt about 500,000 years ago. It frequently erupts, here are two of the dates that it erupted:  January–April 2012, and again in July-October 2012.
 
-![alt text](/katventures/images/ETNA-ERUPTION.jpg "Mount Etna (Erupting)" =100x20)
+Here is a picture of me on Mount Etna holding a truck🙂
+
+<img src="/katventures/images/kat-etna-coach.jpg" alt="Here is a picture of me on Mount Etna holding a truck🙂" style="width: 400px;"/>
+
+And here is a picture of a box of rocks, including sulphur, wood fossil, granite and lava rock that I bought from the souvenir store.
+
+<img src="/katventures/images/kat-etna-stones.png" alt="Some stones I bought" style="width: 400px;"/>
+
+Sadly their names are in Italian, but you can Google the translations if you want.😦
