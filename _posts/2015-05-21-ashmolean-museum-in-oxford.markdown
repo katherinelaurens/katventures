@@ -8,7 +8,7 @@ image: "/katventures/images/kat-ashmolean.jpg"
 image-sm: "/katventures/images/kat-ashmolean.jpg"
 ---
 
-We invited one of my friends with to our very first Homeschool museum visit and the children absolutely loved finding the objects in the Egyptian trail that the museum provided them with.
+ I invited one of my friends with to our very first Homeschool museum visit and we absolutely loved finding the objects in the Egyptian trail that the museum provided us with.
 
 The main focus of the visit was to explore the Ancient Near East – in particular the First Farmers and the First Writing.
 
