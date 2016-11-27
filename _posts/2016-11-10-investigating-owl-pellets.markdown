@@ -12,7 +12,7 @@ Today we went to a Woodstock homeschool meeting. When we were there there was a 
 Thoughts: It was quite smelly there and I was pretty freaked out! I could not stand the smell!!!
 
 <video width="960" height="540" controls>
-  <source src="owl-investigating.mov" type="video/mp4">
+  <source src="/katventures/images/owl-investigating.mov" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
