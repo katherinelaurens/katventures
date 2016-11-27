@@ -1,6 +1,6 @@
 ---
 title: A visit to the Ashmolean Museum, Oxford
-date: '2015-05-21 08:39:01'
+date: '2015-05-21 00:00:00'
 layout: post
 categories:
 - travel
