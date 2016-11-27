@@ -1,6 +1,6 @@
 ---
 title: My Trip to Mount Etna
-date: '2015-09-20 08:39:01'
+date: '2015-09-20 00:00:00'
 layout: post
 categories:
 - travel

@@ -1,6 +1,6 @@
 ---
 title: My First Post
-date: '2016-09-04 08:39:01'
+date: '2016-09-04 00:00:00'
 layout: post
 categories:
 - jekyll update
